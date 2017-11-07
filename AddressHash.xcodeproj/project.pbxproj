@@ -23,21 +23,23 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		0F3E4C761FB23E2A0053C36C /* AddressHash */ = {isa = PBXFileReference; lastKnownFileType = folder; name = AddressHash; sourceTree = "<group>"; };
+		0F3E4C771FB23ED40053C36C /* 10kNoDups.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 10kNoDups.txt; sourceTree = "<group>"; };
+		0F3E4C781FB23ED40053C36C /* 10kAllDups.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 10kAllDups.txt; sourceTree = "<group>"; };
+		0F3E4C791FB23ED40053C36C /* longaddress.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = longaddress.txt; sourceTree = "<group>"; };
+		0F3E4C7A1FB23ED40053C36C /* 0words.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 0words.txt; sourceTree = "<group>"; };
+		0F3E4C7B1FB23ED40053C36C /* 5case20dups.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 5case20dups.txt; sourceTree = "<group>"; };
+		0F3E4C7C1FB23ED40053C36C /* 17ext9dups.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 17ext9dups.txt; sourceTree = "<group>"; };
+		0F3E4C7D1FB23ED40053C36C /* 1k275dups.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 1k275dups.txt; sourceTree = "<group>"; };
+		0F3E4C7E1FB23ED40053C36C /* 150kNoDups.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 150kNoDups.txt; sourceTree = "<group>"; };
+		0F3E4C7F1FB23ED40053C36C /* 100k49kDups.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 100k49kDups.txt; sourceTree = "<group>"; };
+		0F3E4C801FB23ED40053C36C /* 1addr.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 1addr.txt; sourceTree = "<group>"; };
+		0F3E4C811FB23ED50053C36C /* 100kNoDups.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 100kNoDups.txt; sourceTree = "<group>"; };
+		0F3E4C821FB23ED50053C36C /* 300kNoDups.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 300kNoDups.txt; sourceTree = "<group>"; };
+		0F3E4C831FB23ED50053C36C /* 300k102kdups.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 300k102kdups.txt; sourceTree = "<group>"; };
+		0F3E4C841FB23F870053C36C /* AddressHash */ = {isa = PBXFileReference; lastKnownFileType = folder; name = AddressHash; sourceTree = "<group>"; };
 		0FF885F31FB2323600843DAB /* AddressHash */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = AddressHash; sourceTree = BUILT_PRODUCTS_DIR; };
 		0FF885F61FB2323600843DAB /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
-		0FF885FD1FB233A400843DAB /* 0words.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = 0words.txt; path = ../../ChefSteps1/ChefSteps1/0words.txt; sourceTree = "<group>"; };
-		0FF885FE1FB233A400843DAB /* 1addr.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = 1addr.txt; path = ../../ChefSteps1/ChefSteps1/1addr.txt; sourceTree = "<group>"; };
-		0FF885FF1FB233A400843DAB /* longaddress.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = longaddress.txt; path = ../../ChefSteps1/ChefSteps1/longaddress.txt; sourceTree = "<group>"; };
-		0FF886001FB233A400843DAB /* 10kNoDups.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = 10kNoDups.txt; path = ../../ChefSteps1/ChefSteps1/10kNoDups.txt; sourceTree = "<group>"; };
-		0FF886011FB233A400843DAB /* 17ext9dups.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = 17ext9dups.txt; path = ../../ChefSteps1/ChefSteps1/17ext9dups.txt; sourceTree = "<group>"; };
-		0FF886021FB233A400843DAB /* 300kNoDups.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = 300kNoDups.txt; path = ../../ChefSteps1/ChefSteps1/300kNoDups.txt; sourceTree = "<group>"; };
-		0FF886031FB233A400843DAB /* 1k275dups.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = 1k275dups.txt; path = ../../ChefSteps1/ChefSteps1/1k275dups.txt; sourceTree = "<group>"; };
-		0FF886041FB233A400843DAB /* 5case20dups.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = 5case20dups.txt; path = ../../ChefSteps1/ChefSteps1/5case20dups.txt; sourceTree = "<group>"; };
-		0FF886051FB233A500843DAB /* 100k49kDups.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = 100k49kDups.txt; path = ../../ChefSteps1/ChefSteps1/100k49kDups.txt; sourceTree = "<group>"; };
-		0FF886061FB233A500843DAB /* 150kNoDups.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = 150kNoDups.txt; path = ../../ChefSteps1/ChefSteps1/150kNoDups.txt; sourceTree = "<group>"; };
-		0FF886071FB233A500843DAB /* 100kNoDups.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = 100kNoDups.txt; path = ../../ChefSteps1/ChefSteps1/100kNoDups.txt; sourceTree = "<group>"; };
-		0FF886081FB233A500843DAB /* 300k102kdups.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = 300k102kdups.txt; path = ../../ChefSteps1/ChefSteps1/300k102kdups.txt; sourceTree = "<group>"; };
-		0FF886091FB233A500843DAB /* 10kAllDups.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = 10kAllDups.txt; path = ../../ChefSteps1/ChefSteps1/10kAllDups.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,20 +72,22 @@
 		0FF885F51FB2323600843DAB /* AddressHash */ = {
 			isa = PBXGroup;
 			children = (
+				0F3E4C7A1FB23ED40053C36C /* 0words.txt */,
+				0F3E4C801FB23ED40053C36C /* 1addr.txt */,
+				0F3E4C7D1FB23ED40053C36C /* 1k275dups.txt */,
+				0F3E4C7B1FB23ED40053C36C /* 5case20dups.txt */,
+				0F3E4C781FB23ED40053C36C /* 10kAllDups.txt */,
+				0F3E4C771FB23ED40053C36C /* 10kNoDups.txt */,
+				0F3E4C7C1FB23ED40053C36C /* 17ext9dups.txt */,
+				0F3E4C7F1FB23ED40053C36C /* 100k49kDups.txt */,
+				0F3E4C811FB23ED50053C36C /* 100kNoDups.txt */,
+				0F3E4C7E1FB23ED40053C36C /* 150kNoDups.txt */,
+				0F3E4C831FB23ED50053C36C /* 300k102kdups.txt */,
+				0F3E4C821FB23ED50053C36C /* 300kNoDups.txt */,
+				0F3E4C791FB23ED40053C36C /* longaddress.txt */,
+				0F3E4C841FB23F870053C36C /* AddressHash */,
 				0FF885F61FB2323600843DAB /* main.c */,
-				0FF885FD1FB233A400843DAB /* 0words.txt */,
-				0FF885FE1FB233A400843DAB /* 1addr.txt */,
-				0FF886031FB233A400843DAB /* 1k275dups.txt */,
-				0FF886041FB233A400843DAB /* 5case20dups.txt */,
-				0FF886091FB233A500843DAB /* 10kAllDups.txt */,
-				0FF886001FB233A400843DAB /* 10kNoDups.txt */,
-				0FF886011FB233A400843DAB /* 17ext9dups.txt */,
-				0FF886051FB233A500843DAB /* 100k49kDups.txt */,
-				0FF886071FB233A500843DAB /* 100kNoDups.txt */,
-				0FF886061FB233A500843DAB /* 150kNoDups.txt */,
-				0FF886081FB233A500843DAB /* 300k102kdups.txt */,
-				0FF886021FB233A400843DAB /* 300kNoDups.txt */,
-				0FF885FF1FB233A400843DAB /* longaddress.txt */,
+				0F3E4C761FB23E2A0053C36C /* AddressHash */,
 			);
 			path = AddressHash;
 			sourceTree = "<group>";
